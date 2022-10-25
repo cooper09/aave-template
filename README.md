@@ -36,12 +36,11 @@ Then install packages by running the command
 yarn install / npm install
 ```
 
-Finally run this command in node tu see the result.
+Finally run this command to see the result.
 
 ```sh
 node test-github
-```
-
+``
 ## Application
 
     1) Load the V3 PoolAddressesProvider contract.
@@ -51,4 +50,4 @@ node test-github
 
 ## Contact
 
-[fguespe@gmail.com](mailto:cooperatkmba@gmail.com)
+[cooperatkmba@gmail.com](mailto:cooperatkmba@gmail.com)
