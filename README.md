@@ -1,5 +1,5 @@
 
-<h1 align="center">Aave V3 Test with Ethers/Polygon</h1>
+<h1 align="center">Aave V3 Template with Ethers/Polygon</h1>
 
 Node application uses the Goerli Test Netwwork to connect to the app.aave.com TestNET
 ![Aave V3 Testnet](/images/app.aave.testnet.png)
