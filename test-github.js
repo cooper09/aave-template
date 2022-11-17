@@ -83,8 +83,7 @@ try {
 const main = async () => {
 
     const user = "0xCa1AcdA16806e9352028b6dc3B213963F454219E";
-    //const privateKey="00249f6a6d59c8c49adb1605583d04f1f99e883f503037f6ebd28d5e994ef986";
-    const privateKey = process.env.POKYGON_KEYp
+    const privateKey = process.env.POLYGON_KEY
     let wallet = new ethers.Wallet(privateKey);
     // Connect a wallet to goerli net
     const rpcURL = 'https://eth-goerli.g.alchemy.com/v2/-0IcNYnZSZ3rtpMcEip1DSACsOBZzOrg';
